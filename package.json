@@ -4,6 +4,8 @@
   "version": "0.0.0",
   "main": "./index.js",
   "bin": "./cli.js",
-  "dependencies": {},
+  "dependencies": {
+    "node-trello": "^1.1.2"
+  },
   "devDependencies": {}
 }
